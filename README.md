@@ -9,22 +9,33 @@ Focused on building **scalable services**, exploring **concurrency patterns**, a
 
 ---
 
-### 🛠 Tech Arsenal
-- **Backend** : Golang(enough for me)
+### Tech Arsenal
+- **Backend** : Golang, Python, Typescript
 - **Databases** : PostgreSQL, MongoDB, Redis  
 - **Infrastructure** : Docker, Linux, CI/CD, AWS, Git 
 
-> Currently Building [**Chirpy**](https://github.com/Cheemx/chirpy) 🐦 (Twitter-like clone in Go)
+> Currently Building [**Gocan**](https://github.com/Cheemx/gocan) 
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheemx&show_icons=true&count_private=true&theme=radical)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cheemx&theme=radical)  
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheemx&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cheemx&theme=default&hide_border=true" height="150" />
+</p>
 
 ---
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-mahajan-104b18229)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cheems_exo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/myself_cm_)
+### Connect
+<p align="center">
+  <a href="https://linkedin.com/in/chinmay-mahajan-104b18229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/cheems_exo" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/myself_cm_" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
