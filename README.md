@@ -19,7 +19,7 @@ Focused on building **scalable services**, exploring **concurrency patterns**, a
 ---
 
 ### GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cheemx&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="150" />
   <img src="https://streak-stats.demolab.com?user=cheemx&theme=default&hide_border=true" height="150" />
 </p>
@@ -27,7 +27,7 @@ Focused on building **scalable services**, exploring **concurrency patterns**, a
 ---
 
 ### Connect
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/chinmay-mahajan-104b18229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
