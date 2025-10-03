@@ -1,4 +1,3 @@
-# what's up ?! 
+# Wazzup?! 
 
-I (try to) **Build**, **Break** and **Learn** Stuff here!  
-welcome to Cheemx(Coolest noob you'll ever see!)'s Github.
+I (try to) **Learn**, **Build** and **Break** Stuff here!  
