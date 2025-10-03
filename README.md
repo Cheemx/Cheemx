@@ -1,7 +1,4 @@
-# wannabe Software Developer!(Coolest Noob you'll ever see!)
+# what's up ?! 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-</p>
-
-Heyooo, I'm just trying to **Build**, **Break** and **Learn** Something.  
+I (try to) **Build**, **Break** and **Learn** Stuff here!  
+welcome to Cheemx(Coolest noob you'll ever see!)'s Github.
